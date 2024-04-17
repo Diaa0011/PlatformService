@@ -141,3 +141,10 @@ D:\diaa\project\Platform\PlatformService\bin\Debug\net8.0\runtimes\win\lib\net6.
 D:\diaa\project\Platform\PlatformService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\diaa\project\Platform\PlatformService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\diaa\project\Platform\PlatformService\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\diaa\project\Platform\PlatformService\bin\Debug\net8.0\Google.Protobuf.dll
+D:\diaa\project\Platform\PlatformService\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+D:\diaa\project\Platform\PlatformService\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\diaa\project\Platform\PlatformService\bin\Debug\net8.0\Grpc.Core.Api.dll
+D:\diaa\project\Platform\PlatformService\bin\Debug\net8.0\Grpc.Net.Client.dll
+D:\diaa\project\Platform\PlatformService\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+D:\diaa\project\Platform\PlatformService\bin\Debug\net8.0\Grpc.Net.Common.dll

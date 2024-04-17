@@ -107,3 +107,7 @@ D:\diaa\project\Platform\CommandsService\obj\Debug\net8.0\Commands.3E373DDD.Up2D
 D:\diaa\project\Platform\CommandsService\obj\Debug\net8.0\CommandsService.sourcelink.json
 D:\diaa\project\Platform\CommandsService\bin\Debug\net8.0\RabbitMQ.Client.dll
 D:\diaa\project\Platform\CommandsService\bin\Debug\net8.0\appsettings.Production.json
+D:\diaa\project\Platform\CommandsService\bin\Debug\net8.0\Google.Protobuf.dll
+D:\diaa\project\Platform\CommandsService\bin\Debug\net8.0\Grpc.Core.Api.dll
+D:\diaa\project\Platform\CommandsService\bin\Debug\net8.0\Grpc.Net.Client.dll
+D:\diaa\project\Platform\CommandsService\bin\Debug\net8.0\Grpc.Net.Common.dll
