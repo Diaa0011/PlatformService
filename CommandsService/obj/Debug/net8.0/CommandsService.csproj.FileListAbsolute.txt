@@ -104,3 +104,6 @@ D:\diaa\project\Platform\CommandsService\obj\Debug\net8.0\CommandsService.pdb
 D:\diaa\project\Platform\CommandsService\obj\Debug\net8.0\CommandsService.genruntimeconfig.cache
 D:\diaa\project\Platform\CommandsService\obj\Debug\net8.0\ref\CommandsService.dll
 D:\diaa\project\Platform\CommandsService\obj\Debug\net8.0\Commands.3E373DDD.Up2Date
+D:\diaa\project\Platform\CommandsService\obj\Debug\net8.0\CommandsService.sourcelink.json
+D:\diaa\project\Platform\CommandsService\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\diaa\project\Platform\CommandsService\bin\Debug\net8.0\appsettings.Production.json
